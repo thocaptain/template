@@ -1,0 +1,18 @@
++define+DV
+
+-I./../00_src/
+-I./../01_bench/
+
+# source
+./../00_src/top_pkg.sv
+./../00_src/top.sv
+
+# scoreboard
+
+# driver
+
+# top testbench
+./../01_bench/TOP/tbench.sv
+
+./conf.vlt
+-top tbench

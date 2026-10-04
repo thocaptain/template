@@ -1,0 +1,5 @@
++define+DV
+-I../00_src/
+-I../01_bench/
+../00_src/top_pkg.sv
+../00_src/top.sv
